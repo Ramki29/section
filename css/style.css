@@ -1,0 +1,107 @@
+.hi
+	{color:gray;
+	background-color:LightGray;
+	text-align:center;
+	}
+	
+.hello
+	{display:flex;
+	margin:0;
+	padding:0;
+	}
+	
+#happy
+	{padding:20px;
+	color:gray;
+	border:15px inset pink;
+	font-size:20px;
+	font-family:Cursive;
+	}
+	
+#ram
+	{padding:3px;
+	margin:50px;
+	height:400;
+	width:500;
+	box-shadow:-5px -3px 10px aqua;
+	}
+	
+.god
+	{padding:3px;
+	height:400;
+	width:500;
+	margin:50px;
+	box-shadow:5px 3px 10px yellow;
+	}
+	
+.money
+	{
+	overflow:hidden;
+	
+	}	
+	
+.money a
+	{
+	float:right;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	margin:0 0 50px;
+	
+	}
+	
+.give
+	{
+	float:right;
+	padding:0 60px;
+	}
+	
+.save
+	{
+	display:flex;
+	}	
+
+#save
+	{
+	background-color:black;
+	color:white;
+	}	
+	
+.true
+	{
+	color:white;
+	}
+
+.money1
+	{
+	font-family:Monospace;
+	font-size:32px;
+	padding:20px 0 0;
+	}
+	
+.tree
+	{
+	overflow:hidden;
+	}
+
+.tree 
+	{
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	}
+	
+
+	
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+	
